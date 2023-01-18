@@ -1,0 +1,196 @@
+
+    
+{
+
+    "products": [
+        {
+      "brand": "Puma",
+      "name": "Men Colorblocked IDP Sneakers",
+      "price": "2430",
+      "size": "UK5,UK6,UK7",
+      "productId": "1",
+      "category": "Casual",
+      "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/w/t/b/9-lnwh38-lejano-white-original-imaggpw9tcmbbvy2.jpeg?q=70"
+    },
+    {
+      "brand": "Campus",
+      "name": "Sneakers for Men",
+      "price": "1530",
+      "size": "5,6,7,8",
+      "productId": "2",
+      "category": "Casual",
+      "img": "https://rukminim1.flixcart.com/image/612/612/kj36ky80-0/shoe/n/x/v/cg-536-campus-blue-original-imafyqhzb2y8drmf.jpeg?q=70"
+    },
+    {
+      "brand": "RapidBox",
+      "name": "RapidBox Men Shoes Sneakers",
+      "price": "1690",
+      "size": "5,6,7,8",
+      "productId": "3",
+      "category": "Casual",
+      "img": "https://rukminim1.flixcart.com/image/612/612/kw104nk0/shoe/w/z/l/10-atm03-2004-10-rapidbox-white-original-imag8sp7zrcfjmkz.jpeg?q=70"
+    },
+    {
+      "brand": "Jack & Jones",
+      "name": "Sneakers For Men",
+      "price": "1256",
+      "size": "5,6,7,8",
+      "productId": "4",
+      "category": "Casual",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/t/9/d/-original-imaghvb3yempk3rq.jpeg?q=70"
+    },
+    {
+      "brand": "Asian",
+      "name": "Creta-12 Casuals For Men",
+      "price": "950",
+      "size": "5,6,7,8",
+      "productId": "5",
+      "category": "Casual",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/x/w/h/7-309-blkk-7-cooperwings-black-original-imaggm66zjycgw9n.jpeg?q=70"
+    },
+    {
+      "brand": "Mochi",
+      "name": "Party Wear For Men  (Black)",
+      "price": "1645",
+      "size": "5,6,7,8",
+      "productId": "6",
+      "category": "Party",
+      "img": "https://rukminim1.flixcart.com/image/832/832/k5o7r0w0/shoe/n/k/n/19-6194-45-mochi-11-black-original-imafzb3cqzwrcgaz.jpeg?q=70"
+    },
+    {
+      "brand": "URV SHOES ",
+      "name": "Sports Shoes For Mens ( black ) Canvas",
+      "price": "2500",
+      "size": "5,6,7,8",
+      "productId": "7",
+      "category": "Party",
+      "img": "https://rukminim1.flixcart.com/image/832/832/l4zxn680/shoe/a/n/f/9-fvsv-3206-43-urv-shoes-grey-original-imagfsf5dhng33qk.jpeg?q=70"
+    },
+    {
+      "brand": "LEE COOPER ",
+      "name": "Men Boots For Men  (Brown)",
+      "price": "2229",
+      "size": "5,6,7,8",
+      "productId": "8",
+      "category": "Party",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/a/w/3/-original-imagg3a9qm6r3532.jpeg?q=70"
+    },
+    {
+      "brand": "ADIDAS",
+      "name": "ADISET 1.0 M Sneakers For Men  (White)",
+      "price": "2369",
+      "size": "5,6,7,8",
+      "productId": "9",
+      "category": "Party",
+      "img": "https://rukminim1.flixcart.com/image/832/832/k5o7r0w0/shoe/n/k/n/19-6194-45-mochi-11-black-original-imafzb3cqzwrcgaz.jpeg?q=70"
+    },
+    {
+      "brand": "PROVOGUE ",
+      "name": "PRO-3492 Casuals For Men  (Tan)",
+      "price": "1976",
+      "size": "5,6,7,8",
+      "productId": "10",
+      "category": "Party",
+      "img": "https://rukminim1.flixcart.com/image/832/832/l1l1rww0/shoe/e/n/6/10-pro-3492-tan-10-provogue-tan-original-imagd4a59b8fmg2g.jpeg?q=70"
+    },
+    {
+      "brand": "WOODLAND",
+      "name": "Outdoors For Men  (Green)",
+      "price": "2197",
+      "size": "5,6,7,8",
+      "productId": "11",
+      "category": "Outdoors",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/p/2/f/-original-imagg5r3kkz8hgvv.jpeg?q=70"
+    },
+    {
+      "brand": "RED CHIEF ",
+      "name": "Outdoors For Men  (Brown)",
+      "price": "3210",
+      "size": "5,6,7,8",
+      "productId": "12",
+      "category": "Outdoors",
+      "img": "https://rukminim1.flixcart.com/image/832/832/jyoq93k0/shoe/w/g/x/rc1976-8-red-chief-cognic-original-imafgvzuv3gpbr4n.jpeg?q=70"
+    },
+    {
+      "brand": "RED CHIEF ",
+      "name": "RC1211 022 Boots For Men  (Brown)",
+      "price": "3180",
+      "size": "5,6,7,8",
+      "productId": "13",
+      "category": "Outdoors",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/e/l/0/-original-imaghuj2ydb7hwcv.jpeg?q=70"
+    },
+    {
+      "brand": "PROLOGUE ",
+      "name": "PRO-3492 Casuals For Men  (Tan)",
+      "price": "1976",
+      "size": "5,6,7,8",
+      "productId": "14",
+      "category": "Outdoors",
+      "img": "https://rukminim1.flixcart.com/image/832/832/l1l1rww0/shoe/e/n/6/10-pro-3492-tan-10-provogue-tan-original-imagd4a59b8fmg2g.jpeg?q=70"
+    },
+    {
+      "brand": "PROVOGUE ",
+      "name": "PRO-3492 Casuals For Men  (Tan)",
+      "price": "1976",
+      "size": "5,6,7,8",
+      "productId": "15",
+      "category": "Outdoors",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/z/t/-original-imagg7syjhbschfy.jpeg?q=70"
+    },
+    {
+      "brand": "Huetrap",
+      "name": "Men t-shirt",
+      "price": "399",
+      "size": "S,M,L",
+      "productId": "16",
+      "category": "T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/832/832/kcgk1ow0/t-shirt/d/i/z/xl-hsb11-mrn-trends-tower-original-imaftkustrjqthgy.jpeg?q=70"
+    },
+    {
+      "brand": "ADIDAS",
+      "name": "Men Striped Round Neck White T-Shirt",
+      "price": "1199",
+      "size": "S,M,L",
+      "productId": "17",
+      "category": "T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/t/y/f/m-hr3215-adidas-original-imaghs5jz5ujhyd5.jpeg?q=70"
+    },
+    {
+      "brand": "Allen Solly",
+      "name": "Men Slim Fit Self Design Button Down Collar Casual Shirt",
+      "price": "1499",
+      "size": "S,M,L",
+      "productId": "18",
+      "category": "Shirt",
+      "img": "https://rukminim1.flixcart.com/image/832/832/kflftzk0-0/shirt/c/i/i/40-assfqmofz35501-allen-solly-original-imafwykfeejezxuk.jpeg?q=70"
+    },
+    {
+      "brand": "JACK & JONES",
+      "name": "Men Regular Fit Checkered Spread Collar Casual Shirt",
+      "price": "1999",
+      "size": "S,M,L",
+      "productId": "19",
+      "category": "Shirt",
+      "img": "https://rukminim1.flixcart.com/image/832/832/l2tcfbk0/shirt/l/a/u/l-133283301-jack-jones-original-image2k4sudfgf2g.jpeg?q=70"
+    },
+    {
+      "brand": "PUMA",
+      "name": "Men Printed Round Neck Green T-Shirt",
+      "price": "799",
+      "size": "S,M,L",
+      "productId": "20",
+      "category": "T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/832/832/l2tcfbk0/shirt/l/a/u/l-133283301-jack-jones-original-image2k4sudfgf2g.jpeg?q=70"
+    },
+    {
+      "brand": "PUMA",
+      "name": "Men Printed Round Neck Green T-Shirt",
+      "price": "799",
+      "size": "S,M,L",
+      "productId": "20",
+      "category": "T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/y/w/3/40-pjsfpsshd88289-peter-england-original-imaghyr8yaprwbzt.jpeg?q=70"
+    }
+    ]
+}
